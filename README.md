@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhamafzali)&nbsp;&nbsp;
 [![Website](https://img.shields.io/badge/Website-000?style=flat&logo=google-chrome&logoColor=white)](https://elhamafzali.github.io)&nbsp;&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/elhamafzali?label=GitHub&style=flat&logo=github)](https://github.com/elhamafzali)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/elhaamafzali)&nbsp;
 
 
 </div>
