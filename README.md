@@ -24,7 +24,7 @@
 
 ---
 
-I’m Elham Afzali, a PhD candidate in Statistics and Data Science at the University of Manitoba. I specialize in Bayesian inference, kernel methods, and high-dimensional data analysis, with research applications in medical imaging and genomics. I’m passionate about bridging theoretical rigor with real-world impact.
+I’m Elham Afzali, PhD in Statistics and Data Science at the University of Manitoba. I specialize in Bayesian inference, kernel methods, and high-dimensional data analysis, with research applications in medical imaging and genomics. I’m passionate about bridging theoretical rigor with real-world impact.
 
 - 👩‍💻 I explore and share content on Bayesian inference, machine learning, statistical theory, and mathematical foundations.  
 - 💻 My technical toolbox includes Python, R, and various scientific computing libraries.  
