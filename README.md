@@ -60,8 +60,9 @@ Here are some of the courses and books I'm actively studying:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elhamafzali&show_icons=true&locale=en&layout=compact" alt="elhamafzali" /></p>
 
+-->
 ## 🧰 Tech Stack
 
 ---
-
+<!--
 
