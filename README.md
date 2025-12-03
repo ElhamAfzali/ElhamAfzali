@@ -34,7 +34,7 @@ I’m Elham Afzali, PhD in Statistics and Data Science at the University of Mani
 <!--You are welcome to use the [discussions](https://github.com/YOUR_USERNAME/YOUR_REPO/discussions) tab to ask questions, give feedback, or report issues.
 
 ---
-
+-->
 ### 📖 Learning in Progress
 
 Here are some of the courses and books I'm actively studying:
@@ -60,7 +60,7 @@ Here are some of the courses and books I'm actively studying:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elhamafzali&show_icons=true&locale=en&layout=compact" alt="elhamafzali" /></p>
 
--->
+
 ## 🧰 Tech Stack
 
 ---
