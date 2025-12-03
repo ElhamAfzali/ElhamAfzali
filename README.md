@@ -84,12 +84,4 @@ Here are some of the courses and books I'm actively studying:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=hejazizo&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://streak-stats.demolab.com?user=hejazizo&theme=tokyonight&hide_border=false" height="170" />
-
-</div>
 
